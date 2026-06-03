@@ -1,0 +1,59 @@
+{
+  "siteId": "old-street-exploration",
+  "generatedAt": "2026-06-02T19:22:16.957386",
+  "categories": [
+    "beginner-old-street-exploration",
+    "advanced-old-street-exploration",
+    "tips-old-street-exploration",
+    "history-old-street-exploration",
+    "trending-old-street-exploration",
+    "tutorials-old-street-exploration"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-old-street-exploration",
+      "category_name": "Beginner Old Street Exploration"
+    },
+    {
+      "category_slug": "advanced-old-street-exploration",
+      "category_name": "Advanced Old Street Exploration"
+    },
+    {
+      "category_slug": "tips-old-street-exploration",
+      "category_name": "Old Street Exploration Tips"
+    },
+    {
+      "category_slug": "history-old-street-exploration",
+      "category_name": "Old Street Exploration History"
+    },
+    {
+      "category_slug": "trending-old-street-exploration",
+      "category_name": "Trending Old Street Exploration"
+    },
+    {
+      "category_slug": "tutorials-old-street-exploration",
+      "category_name": "Old Street Exploration Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "old-street-exploration",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "Old Street Exploration Central",
+    "articles_per_row": 1
+  }
+}
